@@ -1,0 +1,101 @@
+body {
+    background-color: black;
+}
+#box1 {
+    width: 900px;
+    height: 50px;
+    background-color: teal;
+    position: fixed;
+    top: 50px;
+    left:320px;
+    border-radius: 40%;
+    transition: 1.5s;
+}
+#box2 {
+    width: 900px;
+    height: 50px;
+    background-color: teal;
+    position: fixed;
+    top: 150px;
+    left:320px;
+    border-radius: 40%;
+    transition: 1.5s;
+}
+#box3 {
+    width: 900px;
+    height: 50px;
+    background-color: teal;
+    position: fixed;
+    top: 250px;
+    left:320px;
+    border-radius: 40%;
+    transition: 1.5s;
+}
+#box4 {
+    width: 900px;
+    height: 50px;
+    background-color: teal;
+    position: fixed;
+    top: 350px;
+    left:320px;
+    border-radius: 40%;
+    transition: 1.5s;
+}
+#box5 {
+    width: 900px;
+    height: 50px;
+    background-color: teal;
+    position: fixed;
+    top: 450px;
+    left:320px;
+    border-radius: 40%;
+    transition: 1.5s;
+}
+#box6 {
+    width: 900px;
+    height: 50px;
+    background-color: teal;
+    position: fixed;
+    top: 550px;
+    left:320px;
+    border-radius: 40%;
+    transition: 1.5s;
+}
+#box7 {
+    width: 900px;
+    height: 50px;
+    background-color: teal;
+    position: fixed;
+    top: 650px;
+    left:320px;
+    border-radius: 40%;
+    transition: 1.5s;
+}
+#box1:hover {
+    background-color: purple;
+    left:50px;
+}
+#box2:hover {
+    background-color: navy;
+    left:550px ;
+}
+#box3:hover {
+    background-color: blue;
+    left: 50px;
+}
+#box4:hover {
+    background-color: green;
+    left:550px ;
+}
+#box5:hover {
+    background-color: yellow;
+    left:50px ;
+}
+#box6:hover {
+    background-color: orange;
+    left: 550px;
+}
+#box7:hover {
+    background-color: red;
+    left: 50px;
+}

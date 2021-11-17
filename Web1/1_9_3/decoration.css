@@ -1,0 +1,278 @@
+.box {
+    height:700px ;
+    width:700px ;
+    position: relative;
+    top:3px ;
+    left: 340px;
+    background-color: chocolate;
+    border: 22px solid brown;
+    
+}
+.box1 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:0 ;
+    left:0 ;
+    background-color: wheat;
+
+}
+.box2 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:0 ;
+    left: 175px;
+    background-color: wheat;
+
+}
+.box3 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:0 ;
+    left: 350px;
+    background-color: wheat;
+
+}
+.box4 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:0 ;
+    left: 525px;
+    background-color: wheat;
+
+}
+.box5 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:87.5 ;
+    left: 87.5px;
+    background-color: wheat;
+}
+.box6 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:87.5 ;
+    left: 262.5px;
+    background-color: wheat;
+}
+.box7 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:87.5 ;
+    left: 437.5px;
+    background-color: wheat;
+}
+.box8 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:87.5 ;
+    left: 612.5px;
+    background-color: wheat;
+}
+.box9 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:175px ;
+    left: 0;
+    background-color: wheat;
+}
+.box10 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:175px ;
+    left: 0;
+    background-color: wheat;
+}
+.box11 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:175px ;
+    left: 175px;
+    background-color: wheat;
+}
+.box12 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:175px ;
+    left: 350px;
+    background-color: wheat;
+}
+.box13 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:175px ;
+    left: 525px;
+    background-color: wheat;
+}
+.box14 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:262.5px ;
+    left: 87.5px;
+    background-color: wheat;
+}
+.box15 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:262.5px ;
+    left: 262.5px;
+    background-color: wheat;
+}
+.box16 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:262.5px ;
+    left: 437.5px;
+    background-color: wheat;
+}
+.box17 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:262.5px ;
+    left: 612.5px;
+    background-color: wheat;
+}
+.box18 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:350px ;
+    left: 0px;
+    background-color: wheat;
+}
+.box19 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:350px ;
+    left: 175px;
+    background-color: wheat;
+}
+.box20 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:350px ;
+    left: 350px;
+    background-color: wheat;
+}
+.box21 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:350px ;
+    left: 525px;
+    background-color: wheat;
+}
+.box22 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:437.5px ;
+    left: 87.5px;
+    background-color: wheat;
+}
+.box23 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:437.5px ;
+    left: 262.5px;
+    background-color: wheat;
+}
+.box24 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:437.5px ;
+    left: 437.5px;
+    background-color: wheat;
+}
+.box25 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:437.5px ;
+    left: 612.5px;
+    background-color: wheat;
+}
+.box26 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:525px ;
+    left: 0px;
+    background-color: wheat;
+}
+.box27 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:525px ;
+    left: 175px;
+    background-color: wheat;
+}
+.box28 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:525px ;
+    left: 350px;
+    background-color: wheat;
+}
+.box29 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:525px ;
+    left: 525px;
+    background-color: wheat;
+}
+.box30 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:612.5px ;
+    left: 87.5px;
+    background-color: wheat;
+}
+.box31 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:612.5px ;
+    left: 262.5px;
+    background-color: wheat;
+}
+.box32 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:612.5px ;
+    left: 437.5px;
+    background-color: wheat;
+}
+.box33 {
+    height:87.5px ;
+    width:87.5px ;
+    position: absolute;
+    top:612.5px ;
+    left: 612.5px;
+    background-color: wheat;
+}

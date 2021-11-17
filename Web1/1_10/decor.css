@@ -1,0 +1,41 @@
+@font-face {
+    font-family: nastaligh;
+    src: url('IranNastaliq/IranNastaliq.ttf') format('ttf');
+}
+body { 
+    background-color: teal;
+    position: relative;
+}
+.box {
+    width: 1000px;
+    height: 2100px;
+    left: 300px;
+    outline: 8px solid crimson;
+    position: relative;
+}
+
+.p1,.p3,.p5,.p7,.p9,.p11 {
+    position: absolute;
+    right: 10px;
+    padding: 6px;
+    color: white;
+    text-shadow: 1px 1px 20px black;
+    font-size: xx-large;
+    text-align: right;
+    line-height: 100px;
+    font-family:nastaligh;
+    font-weight: 300;
+    font-style: italic;
+}
+.p2,.p4,.p6,.p8,.p10,.p12 {
+    padding: 120px; 
+    line-height: 50px;
+    color: white;
+    text-shadow: 1px 1px 20px black;
+    font-size: xx-large;
+    text-align: left;
+    line-height: 100px;
+    font-family:nastaligh;
+    font-weight: 300;
+    font-style: italic;
+}
