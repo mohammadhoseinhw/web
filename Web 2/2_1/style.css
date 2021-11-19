@@ -1,0 +1,126 @@
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: fixed;
+    animation: my-animation1 8s;
+    animation-iteration-count: infinite;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    position: fixed;
+    animation: my-animation2 8s;
+    border-radius: 100%;
+    animation-iteration-count:infinite;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: fuchsia;
+    position: fixed;
+    animation: my-animation3 8s;
+    animation-iteration-count:infinite;
+}
+.box4 {
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    position: fixed;
+    animation: my-animation4 8s;
+    border-radius: 100%;
+    animation-iteration-count: infinite;
+}
+@keyframes my-animation1 {
+    0% {
+        top: 0;
+        left: calc(50% - 100px);
+    }
+    25% {
+        top: calc(50% - 100px);
+        left:0 ;
+    }
+    50% {
+        top: calc(100% - 200px);
+        left: calc(50% - 100px);
+    }
+    75% {
+        top: calc(50% - 100px);
+        left: calc(100% - 200px);
+    }
+    100% {
+        top: 0px;
+        left: calc(50% - 100px);
+    }
+  
+}
+@keyframes my-animation2 {
+    0% {
+        top:calc(50% - 100px) ;
+        left: 0;
+    }
+    25% {
+        top: calc(100% - 200px);
+        left:calc(50% - 100px) ;
+    }
+    50% {
+        top: calc(50% - 100px);
+        left: calc(100% - 200px);
+    }
+    75% {
+        top:0 ;
+        left: calc(50% - 100px);
+    }
+    100% {
+        top: calc(50% - 100px);
+        left: 0;
+    }
+  
+}
+@keyframes my-animation3 {
+    0% {
+        top:calc(100% - 200px) ;
+        left: calc(50% - 100px);
+    }
+    25% {
+        top: calc(50% - 100px);
+        left:calc(100% - 200px) ;
+    }
+    50% {
+        top: 0;
+        left: calc(50% - 100px);
+    }
+    75% {
+        top:calc(50% - 100px);
+        left: 0;
+    }
+    100% {
+        top:calc(100% - 200px) ;
+        left: calc(50% - 100px);
+    }
+  
+}
+@keyframes my-animation4 {
+    0% {
+        top:calc(50% - 100px) ;
+        left: calc(100% - 200px);
+    }
+    25% {
+        top: 0;
+        left:calc(50% - 100px) ;
+    }
+    50% {
+        top: calc(50% - 100px);
+        left: 0;
+    }
+    75% {
+        top:calc(100% - 200px) ;
+        left: calc(50% - 100px);
+    }
+    100% {
+        top: calc(50% - 100px);
+        left: calc(100% - 200px);
+    }
+  
+}
