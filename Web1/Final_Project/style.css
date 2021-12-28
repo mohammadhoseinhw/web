@@ -1,0 +1,98 @@
+#box {
+    width: 400px;
+    
+    height: 500px;
+    position: absolute;
+    top: 120px;
+    left: calc(50% - 175px);
+    border: 6px solid rgb(94, 92, 92);
+    background-image: url(download.jpg);
+}
+
+.first {
+    color: whitesmoke;
+    font-size: 30px;
+    position: relative;
+    left: 30px;
+    top: 20px;  
+}
+.second {
+    color: whitesmoke;
+    font-size: 30px;
+    position: relative;
+    left: 150px;
+    top: -44.5px;
+}
+.textbox1 {
+    color: whitesmoke;
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    top: -5px;
+}
+#username {
+    width: 300px;
+    height: 23px;
+    border-radius: 5px;
+    position: relative;
+    left: 30px;
+    top: 5px;
+}
+.textbox2 {
+    color: whitesmoke;
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    top: 15px;
+}
+#password {
+    width: 300px;
+    height: 23px;
+    border-radius: 5px;
+    position: relative;
+    left: 30px;
+    top: 25px;
+}
+#checkbox {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: -285px;
+    top: 60px;
+}
+#span {
+    color: whitesmoke;
+    font-size: 20px;
+    position: relative;
+    left: 80px;
+    top: 35px;
+}
+#box1 {
+    width: 300px;
+    height: 32px;
+    color: whitesmoke;
+    border-radius: 5px;
+    position: relative;
+    left: 35px;
+    top: 50px;
+    background-color: rgb(84, 84, 240);
+    
+}
+#box2 {
+    width: 400px;
+    height: 80px;
+    position: relative;
+    left: 0px;
+    top: 50px;
+}
+#par1 {
+    position: relative;
+    top: 5px;
+    left: 125px;
+}
+#par2 {
+    position: relative;
+    top: 50px;
+    left: 125px;
+    color: whitesmoke;
+}
