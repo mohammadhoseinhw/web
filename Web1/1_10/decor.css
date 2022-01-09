@@ -1,6 +1,6 @@
 @font-face {
     font-family: nastaligh;
-    src: url('IranNastaliq/IranNastaliq.ttf') format('ttf');
+    src: url('IranNastaliq/IranNastaliq.ttf');
 }
 body { 
     background-color: teal;
